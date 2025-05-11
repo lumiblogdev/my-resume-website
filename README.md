@@ -2,7 +2,8 @@
 
 This is my first HTML project — a simple, static website built using only HTML. It includes three pages:
 
-- **Home** (Resume)
+- **Home**
+- **Resume**
 - **About**
 - **Contact**
 

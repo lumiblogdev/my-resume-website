@@ -15,7 +15,3 @@ This is my first HTML project — a simple, static website built using only HTML
 ## 🚀 How to View
 
 You can download or clone the repository and open the `index.html` file in your browser.
-
-```bash
-git clone https://github.com/your-username/repository-name.git
-cd repository-name
